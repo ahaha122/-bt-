@@ -1,3 +1,4 @@
+应该会有些重复的不过这并无大碍复制下来粘贴进客户端就可以了
 udp://opentracker.i2p.rocks:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
